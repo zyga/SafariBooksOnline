@@ -3,7 +3,7 @@ Name=Safari Books Online
 Comment=The best books and video courses from the brightest minds
 Type=Application
 Icon=SafariBooks.png
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://(ssl|m).safaribooksonline.com/* http://m.safaribooksonline.com %u
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://*.safaribooksonline.com/* http://m.safaribooksonline.com %u
 Terminal=false
 X-Ubuntu-Touch=true
 
