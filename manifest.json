@@ -1,0 +1,15 @@
+{
+    "name": "safaribooksonline.zygoon",
+    "description": "The best books and video courses from the brigtest minds",
+    "architecture": "all",
+    "title": "Safari Books Online",
+    "hooks": {
+        "SafariBooks": {
+            "apparmor": "SafariBooks.apparmor",
+            "desktop": "SafariBooks.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Zygmunt Krynicki <me@zygoon.pl>",
+    "framework": "ubuntu-sdk-14.10-html"
+}
