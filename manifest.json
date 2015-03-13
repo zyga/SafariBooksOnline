@@ -9,7 +9,7 @@
             "desktop": "SafariBooks.desktop"
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "maintainer": "Zygmunt Krynicki <me@zygoon.pl>",
     "framework": "ubuntu-sdk-14.10-html"
 }
