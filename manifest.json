@@ -1,6 +1,6 @@
 {
     "name": "safaribooksonline.zygoon",
-    "description": "The best books and video courses from the brigtest minds",
+    "description": "The best books and video courses from the brightest minds",
     "architecture": "all",
     "title": "Safari Books Online",
     "hooks": {
